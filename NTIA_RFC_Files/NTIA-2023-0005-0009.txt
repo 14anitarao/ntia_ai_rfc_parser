@@ -1,0 +1,3 @@
+
+                      There are significant concerns on how AI is used in the medical insurance industry. How is AI used to approve / deny claims? Who is providing the technology? How are they licensed and vetted? What protected information is being accessed and how can that information be anonymized? In light of this new technology and several high profile data breaches, what options will consumers have to opt out of AI processing their protected health data?
+                    

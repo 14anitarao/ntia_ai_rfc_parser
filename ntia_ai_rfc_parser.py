@@ -18,7 +18,7 @@ but realized this only works for data sets uploaded at data.gov
 num_files = 10
 
 # Configure download location
-download_loc = "/Users/anitarao/TechCongress/NTIA_RFC_Files/"
+download_loc = "/Users/anitarao/TechCongress/ntia_ai_rfc_parser/NTIA_RFC_Files"
 
 def make_urls():
     comments = ["{0:04}".format(i) for i in range(1,num_files+1)]
